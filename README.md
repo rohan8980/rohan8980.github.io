@@ -88,6 +88,29 @@ An <span class="dark">end-to-end</span> recipe <span class="dark">recommendation
 
 ---
 
+### Customer & Sales KPI Dashboard <a href="https://public.tableau.com/app/profile/rohan.patel5010/viz/CustomerandSalesKPIsDashboards/SalesDashboard" target="_blank"><img src="https://img.icons8.com/?size=25&id=9Kvi1p1F0tUo" alt="Sales Dashboard" class="icon" /></a> <a href="https://public.tableau.com/app/profile/rohan.patel5010/viz/CustomerandSalesKPIsDashboards/CustomerDashboard" target="_blank"><img src="https://img.icons8.com/?size=25&id=9Kvi1p1F0tUo" alt="Customer Dashboard" class="icon" /></a>
+_August 2024_
+
+[![Dashboard Gif](/assets/images/CustomerSalesKPIDashboard.gif)](https://public.tableau.com/app/profile/rohan.patel5010/viz/CustomerandSalesKPIsDashboards/SalesDashboard)
+
+An interactive Tableau dashboard focused on Sales and Customer data to analyze performance across regions, categories, and years. The dashboard incorporates <span class="dark">dynamic filters</span> and clean visual layouts to support guided storytelling and <span class="dark">year-over-year comparisons</span>. Key metrics such as total sales, profit, orders, and customer segments are visualized through <span class="dark">KPIs</span>, <span class="dark">stacked bar charts</span>, and <span class="dark">line graphs</span>. <span class="dark">Calculated fields</span> were used to derive insights like profit ratio, sales ratio, YoY growth, and customer profitability, following industry best practices for dashboard design.
+
+**Key Technologies**: Tableau, Data Visualization, Sales Analytics, KPI Dashboards
+
+---
+
+### Amazon Prime Dashboard <a href="https://public.tableau.com/app/profile/rohan.patel5010/viz/AmazonPrime_17437072186270/Dashboard1" target="_blank"><img src="https://img.icons8.com/?size=25&id=9Kvi1p1F0tUo" alt="Sales Dashboard" class="icon" /></a>
+_July 2024_
+
+[![Dashboard Gif](/assets/images/AmazonPrimeDashboard.gif)](https://public.tableau.com/app/profile/rohan.patel5010/viz/AmazonPrime_17437072186270/Dashboard1)
+
+A Tableau dashboard to explore Amazon Prime show performance, audience demographics, and viewing behavior trends. The dashboard features <span class="dark">maps</span>, <span class="dark">radial bar charts</span>, pie charts, and area graphs to present top-rated content, regional show distribution, and content types. <span class="dark">Interactive elements</span> such as filters and parameters were implemented to enhance storytelling and user-driven exploration. 
+
+**Key Technologies**: Tableau, Data Visualization, Entertainment Analytics, Interactive Dashboards
+
+---
+
+
 ### ReviewRadar <a href="https://github.com/rohan8980/ReviewRadar" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a>
 _March 2024_
 
